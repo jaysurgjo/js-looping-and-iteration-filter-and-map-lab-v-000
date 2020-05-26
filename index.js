@@ -13,7 +13,7 @@ function driverNamesWithRevenueOver (drivers, revenue) {
 
 function exactMatch (drivers, matcher) {
   return drivers.filter(function (driver) {
-    
+
   });
 }
 
